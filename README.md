@@ -1,0 +1,1 @@
+Hier soll ein Verzeichnis von öffentlich verfügbaren, interaktiven Sprachdialogsystem aufgebaut werden.
