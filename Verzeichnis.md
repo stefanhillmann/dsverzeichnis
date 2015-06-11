@@ -18,6 +18,10 @@
 * Tel. 089 41424344
 * URL www.mvv-muenchen.de
 
+### Verkehrsverbund Großraum Nürnberg ###
+* Tel. 0800 4636846
+* URL www.vgn.de/8778b1c6-caa3-c7db-3ef0-e300ce77788f
+
 ### Verkehrsverbund Oberelbe ###
 * Tel. 0351 8526555
 * URL www.vvo-online.de
